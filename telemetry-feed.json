@@ -1,0 +1,17 @@
+{
+  "facility": "Energy Grid Node 07",
+  "status": "active",
+  "threat_level": "medium",
+  "telemetry": [
+    {
+      "event": "Unauthorized PLC request",
+      "severity": "high",
+      "timestamp": "2026-05-19T08:42:11Z"
+    },
+    {
+      "event": "SCADA anomaly detected",
+      "severity": "medium",
+      "timestamp": "2026-05-19T09:11:44Z"
+    }
+  ]
+}
