@@ -1,0 +1,14 @@
+{
+  "groups": [
+    {
+      "name": "ATLAS-01",
+      "target": "Energy Infrastructure",
+      "activity": "ICS intrusion operations"
+    },
+    {
+      "name": "GRID-SHADOW",
+      "target": "Water Systems",
+      "activity": "Operational disruption attempts"
+    }
+  ]
+}
